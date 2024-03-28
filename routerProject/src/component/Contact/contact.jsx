@@ -8,10 +8,10 @@ return (
         <div className="grid grid-cols-1 md:grid-cols-2">
             <div className="p-6 mr-2 bg-gray-100 sm:rounded-lg">
                 <h1 className="text-3xl sm:text-4xl text-gray-800 font-extrabold tracking-tight">
-                    Get in touch: 
+                    Connect Us: 
                 </h1>
                 <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-2">
-                    Fill in the form to start a conversation
+                    Fill the form to start a conversation
                 </p>
 
                 <div className="flex items-center mt-8 text-gray-600">
@@ -38,7 +38,7 @@ return (
                         />
                     </svg>
                     <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                        Acme Inc, Street, State, Postal Code
+                        Ambegaon Pathar, Pune, Maharashtra
                     </div>
                 </div>
 
@@ -60,7 +60,7 @@ return (
                         />
                     </svg>
                     <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                        +44 1234567890
+                        +91 8459060309
                     </div>
                 </div>
 
@@ -82,7 +82,7 @@ return (
                         />
                     </svg>
                     <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                        info@acme.org
+                        shrawanrw07@gmail.com
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@ return (
                         type="name"
                         name="name"
                         id="name"
-                        placeholder="Full Name"
+                        placeholder="Your Name"
                         className="w-100 mt-2 py-3 px-3 rounded-lg bg-white border border-gray-400 text-gray-800 font-semibold focus:border-orange-500 focus:outline-none"
                     />
                 </div>
@@ -116,13 +116,13 @@ return (
 
                 <div className="flex flex-col mt-2">
                     <label for="tel" className="hidden">
-                        Number
+                       Number
                     </label>
                     <input
                         type="tel"
                         name="tel"
                         id="tel"
-                        placeholder="Telephone Number"
+                        placeholder="Contact Number"
                         className="w-100 mt-2 py-3 px-3 rounded-lg bg-white border border-gray-400 text-gray-800 font-semibold focus:border-orange-500 focus:outline-none"
                     />
                 </div>
